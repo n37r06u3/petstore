@@ -1,5 +1,5 @@
 {
-    'name' : 'OpenERP Pet Store',
+    'name' : 'OpenERP or Odoo Pet Store',
     'version': '1.0',
     'summary': 'Sell pet toys',
     'category': 'Tools',
