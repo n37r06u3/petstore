@@ -1,3 +1,4 @@
-Base module for the Odoo [Web Client tutorial](//github.com/odoo/odoo/blob/8.0/doc/howtos/web.rst)
-For Odoo 10.x
+#devecho odoo前端基础代码
+
+http://devecho.com/v/odoo-front-end-dev-basic/
 
